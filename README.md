@@ -1,5 +1,5 @@
 # 💫 About Me:
-💃🏻I'm currently study at university and working on petprojects<br>😄Now I'm learning Kotlin & Ktor & also continue programming on django<br>😎Today I know Python and a lot of libraries, Django, SQL, Async programming, Git, <br>basics Java, C++, Kotlin, PHP & (JS HTML CSS package) & docker<br><br>Sometimes work freelance & work on AniShop<br>
+💃🏻I'm currently study at university and working on petprojects<br>😄Now I'm learning Kotlin & Ktor & also continue programming on django<br>😎Today I know Python and a lot of libraries, Django, SQL, Async programming, Git, <br>basics Java, C++, Kotlin, PHP & (JS HTML CSS package) & docker<br><br>Sometimes work freelance<br>
 
 
 ## 🌐 Socials:
